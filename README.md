@@ -31,6 +31,13 @@ clawhub install deen-time
 
 Powered by the [Aladhan Prayer Times API](https://aladhan.com/prayer-times-api) — free, public, and requires no API key.
 
+## Security and Privacy
+
+- All API calls are **read-only HTTPS** requests to `api.aladhan.com`
+- Only city/country names or coordinates are sent — **no personal data**
+- No API keys, authentication, or credentials required
+- No data is stored or written to disk
+
 ## License
 
 MIT
